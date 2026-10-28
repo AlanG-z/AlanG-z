@@ -1,123 +1,72 @@
-```md
-<div align="center">
+<!-- Reemplazá TU-USUARIO por tu usuario de GitHub en todos los links -->
 
-# `alan@dev:~$ whoami`
+<h1 align="center">¡Hola! Soy Alan Gutierrez 👋</h1>
 
-### 💻 Full Stack Web Developer | Desarrollador Web Full Stack
+<h3 align="center">Estudiante de Programación Web · Desarrollador Full Stack en formación</h3>
 
-**Building the web, one line at a time.**  
-**Construyendo la web, una línea de código a la vez.**
+<p align="center">
+  📍 San Juan, Argentina &nbsp;·&nbsp; 🎓 Tecnicatura Universitaria en Programación Web (FCEFyN)
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_PERFIL/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-CC241D?style=for-the-badge&logo=firefox&logoColor=white)](https://TU_PORTAFOLIO)
-
-</div>
+<p align="center">
+  <a href="https://github.com/TU-USUARIO"><img src="https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&style=for-the-badge&color=0e75b6" alt="Visitas"/>
+</p>
 
 ---
 
-## `> about-me`
+## 🙋‍♂️ Sobre mí
 
-🇪🇸 **Sobre mí**
-
-Soy desarrollador web en formación, interesado en crear aplicaciones
-web funcionales, intuitivas y bien estructuradas. Me gusta aprender
-nuevas tecnologías, resolver problemas y mejorar mis habilidades
-mediante proyectos prácticos.
-
-🇬🇧 **About me**
-
-I'm an aspiring web developer interested in building functional,
-intuitive, and well-structured web applications. I enjoy learning
-new technologies, solving problems, and improving my skills through
-hands-on projects.
-
-```bash
-$ cat developer.json
-{
-  "role": "Full Stack Web Developer",
-  "focus": ["Frontend", "Backend", "Web Applications"],
-  "currently_learning": true,
-  "mindset": "Learn, build, improve, repeat."
-}
-```
-
-## `> tech-stack`
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML CSS JavaScript React" />
-</p>
-
-**Backend & Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,sqlite" alt="PHP Laravel Node.js Express MySQL SQLite" />
-</p>
-
-**Tools & Environment**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git GitHub VS Code Linux" />
-</p>
-
-## `> featured-projects`
-
-🇪🇸 Estos son los proyectos que quiero destacar en mi portafolio.  
-🇬🇧 These are the projects I want to showcase in my portfolio.
-
-<!-- Agregá aquí tus proyectos reales cuando estén publicados. -->
-
-- 🔧 **Project 01** — *Coming soon / Próximamente*
-- 🔧 **Project 02** — *Coming soon / Próximamente*
-- 🔧 **Project 03** — *Coming soon / Próximamente*
-
-> Replace these placeholders with real repositories, descriptions,
-> technologies, and live demos when available.
->
-> Reemplazá estos marcadores por repositorios reales, descripciones,
-> tecnologías y demos cuando estén disponibles.
-
-## `> currently-learning`
-
-- Improving my frontend and backend development skills.
-- Practicing API integration and database management.
-- Learning to write cleaner, maintainable code.
-
-- Mejorando mis habilidades de frontend y backend.
-- Practicando integración de APIs y gestión de bases de datos.
-- Aprendiendo a escribir código más limpio y mantenible.
-
-## `> github-stats`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&title_color=CC241D&icon_color=CC241D" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&title_color=CC241D" alt="Most used languages" />
-
-</div>
-
-## `> contact`
-
-🇪🇸 ¿Tenés una propuesta, colaboración o proyecto interesante?  
-¡Estoy abierto a conectar y seguir aprendiendo!
-
-🇬🇧 Have an interesting project, opportunity, or collaboration in mind?  
-Feel free to connect!
-
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: https://www.linkedin.com/in/TU_PERFIL/
-- Email: TU_CORREO
+- 🎓 Curso la **Tecnicatura Universitaria en Programación Web** en la Facultad de Ciencias Exactas, Físicas y Naturales (UNSJ) desde 2022.
+- 🌱 Me gusta construir aplicaciones web completas, desde la interfaz hasta la base de datos.
+- 🔭 Actualmente profundizando en **React** y explorando **Svelte**.
+- 🌐 Aprendiendo inglés para seguir creciendo profesionalmente.
+- 💬 Abierto a pasantías, colaboraciones y proyectos nuevos.
 
 ---
 
-<div align="center">
+## 🛠️ Tecnologías
 
-```bash
-$ echo "Thanks for visiting my profile!"
-$ echo "¡Gracias por visitar mi perfil!"
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,laravel,python,java,mysql,tailwind,git,github,vscode&perline=7" alt="Tecnologías"/>
+</p>
 
-**`[ Keep learning. Keep building. ]`**
+---
 
-</div>
-```
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🛒 **Genesis** | E-commerce con carrito de compras, gestión de órdenes y panel de administración. | _Completar_ |
+| 🚗 **SearchMyCar** | App que guarda por GPS el lugar donde estacionaste el auto para encontrarlo después. | _Completar_ |
+| ✅ **Gestor de Tareas** | Gestión de tareas para equipos de trabajo con autenticación y roles (Empleado / Administrador). | _Completar_ |
+| 📚 **Biblioteca Virtual** | Sistema web con catálogo y préstamos para clientes, y gestión de devoluciones y multas para administradores. | Java, MySQL |
+
+> 💡 Podés enlazar cada proyecto con su repositorio: `[Genesis](https://github.com/TU-USUARIO/genesis)`
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight&hide_border=true" alt="Racha de contribuciones"/>
+</p>
+
+---
+
+## 📫 Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://TU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p align="center">
+  <i>⭐ Gracias por pasar por mi perfil ⭐</i>
+</p>
