@@ -1,4 +1,4 @@
-<!-- Reemplazá TU-USUARIO por tu usuario de GitHub en todos los links -->
+
 
 <h1 align="center">¡Hola! Soy Alan Gutierrez 👋</h1>
 
@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU-USUARIO"><img src="https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores"/></a>
-  <img src="https://komarev.com/ghpvc/?username=TU-USUARIO&label=Visitas&style=for-the-badge&color=0e75b6" alt="Visitas"/>
+  <a href="https://github.com/AlanG-z"><img src="https://img.shields.io/github/followers/AlanG-z?label=Seguidores&style=for-the-badge&logo=github&color=181717" alt="Seguidores"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AlanG-z&label=Visitas&style=for-the-badge&color=0e75b6" alt="Visitas"/>
 </p>
 
 ---
@@ -49,8 +49,8 @@
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:TU-CORREO@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/alan-gutierrez-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alan108055@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://TU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
